@@ -74,4 +74,4 @@ https://universe.roboflow.com/varuns-workspace-u056q/bee-object-detection-final
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python machine_learning_assesment_2_varun.py
+python training_yolov8.py
