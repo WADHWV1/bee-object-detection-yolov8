@@ -55,6 +55,20 @@ The project demonstrates the complete machine learning workflow, including data 
 Roboflow Dataset:  
 https://universe.roboflow.com/varuns-workspace-u056q/bee-object-detection-final
 
+## Metrics 
+<img width="501" height="198" alt="image" src="https://github.com/user-attachments/assets/82b220d5-9e7a-4004-80f9-1457da064f0f" />
+
+## Validation Set
+<img width="466" height="184" alt="image" src="https://github.com/user-attachments/assets/944d38a1-065e-45d0-9d43-eb0f4b329a46" />
+
+
+## Test Set
+<img width="471" height="185" alt="image" src="https://github.com/user-attachments/assets/76014d69-7f87-4f9a-9c54-2449c57190b1" />
+
+## Model Performance 
+<img width="1485" height="884" alt="image" src="https://github.com/user-attachments/assets/079b8f96-2f28-4dd3-bfe5-92df98b7fb9a" />
+
+
 ---
 
 ## How to Run
